@@ -1,6 +1,0 @@
-timestamp,source_pdf,output_docx,status,error
-2026-08-29T16:53:00.658856,C:\PDF\input\media-call-on-june-30-2026.pdf,C:\PDF\output\media-call-on-june-30-2026.docx,success,
-2026-08-29T16:53:05.489515,C:\PDF\input\pdf-sample_0.pdf,C:\PDF\output\pdf-sample_0.docx,success,
-2026-08-29T16:53:09.393283,C:\PDF\input\pdf-sample_1.pdf,C:\PDF\output\pdf-sample_1.docx,success,
-2026-08-29T16:53:12.997818,C:\PDF\input\pdf-sample_2.pdf,C:\PDF\output\pdf-sample_2.docx,success,
-2026-08-29T16:53:20.626969,C:\PDF\input\q1fy27-media-call-transcript.pdf,C:\PDF\output\q1fy27-media-call-transcript.docx,success,
